@@ -3,7 +3,6 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tictactoc/bloc/tic_tac_toe/tic_tac_toe_cubit.dart';
 import 'package:tictactoc/component/box.dart';
 import 'package:tictactoc/component/button_commponent.dart';
-import 'package:tictactoc/component/text_component.dart';
 import 'package:tictactoc/page/home_screen.dart';
 import '../component/app_bar.dart';
 

@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:tictactoc/component/button_commponent.dart';
 import 'package:tictactoc/page/Pick_side.dart';
 

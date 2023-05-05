@@ -1,10 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/framework.dart';
-import 'package:flutter/src/widgets/placeholder.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:tictactoc/bloc/tic_tac_toe/tic_tac_toe_cubit.dart';
 import 'package:tictactoc/component/icon_commponent.dart';
-import 'package:tictactoc/component/text_component.dart';
 
 class BoxCommponent extends StatefulWidget {
   const BoxCommponent({
